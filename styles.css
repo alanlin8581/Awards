@@ -1,0 +1,48 @@
+body {
+    background: url("https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif");
+    color: Aqua;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    width: 400px;
+    height: 500px;
+}
+
+.title {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size:50px;
+}
+
+.song {
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 40px;
+    color: SpringGreen;
+}
+
+.singer {
+    font-family: 'Oswald', sans-serif;
+    color: Fuchsia;
+    font-size: 40px;
+}
+
+.actor {
+    font-family: 'Roboto', sans-serif;
+    color: Yellow;
+    font-size: 40px;
+}
+
+.drama {
+    font-family: 'Ranga', cursive;
+    color: Red;
+    font-size: 40px;
+}
+
+img {
+    border: dashed;
+    color: orange;
+}
+    
+    
